@@ -53,7 +53,7 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
-                                            <a href="#">Berlin</a>
+                                            <a href="#">Berlins</a>
                                         </li>
                                     </ul>
                                 </li>
